@@ -1,0 +1,7 @@
+{
+  "name": "Refrigelar — Refrigeração, Climatização & Assistência Técnica",
+  "description": "Página oficial da Refrigelar em Pinhão - PR. Assistência técnica em ar-condicionado, geladeiras, lavadoras e refrigeração em geral. Contatos, WhatsApp e orçamentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
